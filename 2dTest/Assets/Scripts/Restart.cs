@@ -15,4 +15,9 @@ public class Restart : MonoBehaviour {
         }
     }
 
+    //Test for github
+    void test()
+    {
+
+    }
 }
